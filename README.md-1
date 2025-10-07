@@ -1,0 +1,13 @@
+# PLP MongoDB Week 1
+
+This project includes MongoDB CRUD operations and data analysis for the `plp_bookstore` database.
+
+## How to Run
+1. Run `node insert_books.js` to insert data.
+2. Open MongoDB Compass to view the `books` collection.
+3. Run the queries in `queries.js` using `mongosh` or Compass.
+
+## Files
+- `insert_books.js` → Script to populate MongoDB
+- `queries.js` → MongoDB queries
+- `screenshot.png` → Proof of inserted data
